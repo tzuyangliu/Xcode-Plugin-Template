@@ -1,9 +1,7 @@
 # Xcode Plugin Template
-![project deprecated](https://img.shields.io/badge/project%20status-deprecated-red.svg)
+(This origin project is deprecated in favor of [Editor Extensions](https://developer.apple.com/videos/play/wwdc2016/414/) support in Xcode 8+.)
 
-This project is deprecated in favor of [Editor Extensions](https://developer.apple.com/videos/play/wwdc2016/414/) support in Xcode 8+.
-
-Basic template for creating a plugin for Xcode 6 and 7.
+This fork add supports for **Xcode8, Xcode9**, and future versions.
 
 ## Installation
 
